@@ -26,5 +26,26 @@ namespace ASPNETWebAppMVCStudentApp.Controllers
 
             return View();
         }
+
+        public ActionResult Students()
+        {
+            ViewBag.Message = "Students page.";
+
+            return View();
+        }
+
+        public ActionResult Departments()
+        {
+            ViewBag.Message = "Departments page.";
+
+            return View();
+        }
+
+        public ActionResult Courses()
+        {
+            ViewBag.Message = "Courses page.";
+
+            return View();
+        }
     }
 }
