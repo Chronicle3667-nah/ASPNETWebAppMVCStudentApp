@@ -3,51 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\views\\home\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\views\\home\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\views\\home\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|c:\\users\\dell\\desktop\\lab 6 ex2\\aspnetwebappmvcstudentapp\\aspnetwebappmvcstudentapp\\schoolmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\aspnetwebappmvcstudentapp\\schoolmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{B682F88D-A758-4B45-863E-A6E71B625137}|ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp.csproj|solutionrelative:aspnetwebappmvcstudentapp\\schoolmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -67,6 +75,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T00:18:19.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:18:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Views\\Home\\Contact.cshtml",
@@ -79,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Courses.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Views\\Home\\Courses.cshtml",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Views\\Home\\Courses.cshtml",
@@ -87,12 +121,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Views\\Home\\Courses.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-20T15:20:14.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T15:20:14.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Departments.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Views\\Home\\Departments.cshtml",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Views\\Home\\Departments.cshtml",
@@ -100,12 +133,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Views\\Home\\Departments.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-20T15:12:57.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T15:12:57.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Controllers\\DepartmentsController.cs",
@@ -113,12 +145,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T15:05:26.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T15:05:26.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Controllers\\HomeController.cs",
@@ -126,12 +157,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T14:54:51.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T14:54:51.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Views\\Shared\\_Layout.cshtml",
@@ -139,12 +169,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-20T14:45:32.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T14:45:32.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EnrollmentsController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\EnrollmentsController.cs",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Controllers\\EnrollmentsController.cs",
@@ -152,12 +181,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Controllers\\EnrollmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T15:05:06.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T15:05:06.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Controllers\\CoursesController.cs",
@@ -170,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "InstructorsController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\InstructorsController.cs",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Controllers\\InstructorsController.cs",
@@ -178,12 +206,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Controllers\\InstructorsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T15:02:09.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T15:02:09.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Students.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Views\\Home\\Students.cshtml",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Views\\Home\\Students.cshtml",
@@ -191,12 +218,11 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Views\\Home\\Students.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-20T14:51:00.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T14:51:00.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\Controllers\\StudentsController.cs",
@@ -204,20 +230,18 @@
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T14:41:59.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T14:41:59.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SchoolModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\SchoolModel.edmx",
               "RelativeDocumentMoniker": "ASPNETWebAppMVCStudentApp\\SchoolModel.edmx",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Lab 6 Ex2\\ASPNETWebAppMVCStudentApp\\ASPNETWebAppMVCStudentApp\\SchoolModel.edmx [Diagram1]",
               "RelativeToolTip": "ASPNETWebAppMVCStudentApp\\SchoolModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-10-20T14:36:13.263Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-10-20T14:36:13.263Z"
             }
           ]
         }
